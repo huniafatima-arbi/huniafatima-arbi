@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hunia👋</h1>
-<h3 align="center">A creative and resilient web developer with an aura of thinking out of box 😎</h3>
+<h3 align="center">A creative and resilient software engineer with an aura of thinking out of box 😎</h3>
 
 *   👀 I’m interested in full-stack development, creating seamless user experiences, and exploring the latest technologies.
 *   🌱 I’m currently learning advanced CI/CD workflows and enhancing my skills in micro frontend architectures.
